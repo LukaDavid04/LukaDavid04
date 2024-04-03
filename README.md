@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Luka David</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/LukaDavid04/LukaDavid04/wave.gif" width="30px" height="30px" />❕ Welcome to my GitHub❕</h1>
+<h3 align="center">My name is Luka David, It's nice to virtually meet you</h3>
 
 - 👨‍💻 All of my projects are available at [https://lukadavid04.github.io/](https://lukadavid04.github.io/)
 
