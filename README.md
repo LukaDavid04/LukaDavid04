@@ -1,13 +1,37 @@
-<h1 align="center">Hi <img src="https://github.com/LukaDavid04/LukaDavid04/blob/main/wave.gif" width="30px" height="30px" />❕ Welcome to my GitHub❕</h1>
-<h3 align="center">My name is Luka David, It's nice to virtually meet you</h3>
+<h1 align="center">Hi <img src="https://github.com/LukaDavid04/LukaDavid04/blob/main/wave.gif" width="30px" height="30px" />! I'm Luka</h1>
 
-- 👨‍💻 All of my projects are available at [https://lukadavid04.github.io/](https://lukadavid04.github.io/)
+<img src="https://github.com/LukaDavid04/LukaDavid04/blob/main/pixels.gif" width="699px" height="152px" />
+
+<h3 align="center">It's nice to virtually meet you</h3>
+
+I'm a Software Engineer graduate from the University of Ottawa. Most recently worked for Motorola and Warner Brothers Discovery. I'm also a Analyst for the Gee-Gee's Basketball Team and the Lead Technician for the Tennis Team.
+
+- 👨‍💻 [My Website](https://lukadavid04.github.io/)
 
 - 📫 How to reach me **ldavi029@uottawa.ca**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PwBjMBwHCBl9_TpLO8qIkCXAkycQPPa5/view](https://drive.google.com/file/d/1PwBjMBwHCBl9_TpLO8qIkCXAkycQPPa5/view)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1PwBjMBwHCBl9_TpLO8qIkCXAkycQPPa5/view)
 
-<h3 align="left">Connect with me:</h3>
+## 🔭 Currently
+
+Looking for Full-time opportunities and preparing our players for next season 🏋️
+
+## 🕰️ Previously
+
+- Dialing in for the VESTA 911 Call Handling Team @[Motorola Solutions](https://www.motorolasolutions.com/en_us/products/command-center-software/public-safety-software/ng9-1-1-call-management/vesta.html) 📞
+- Maxing out your HBO viewing experience @[Warner Brothers Discovery](https://wbd.com/) 📺
+- Investigating cloud solutions @[Magnet Forensics](https://www.magnetforensics.com/) 🔍
+- Innovating medical technology @[University of Ottawa](https://www.uottawa.ca/en) 🩺
+
+### 🙈 Ask me about ...
+
+- What Shawarma Restaurant is the best in Ottawa
+- What season of True Detective I am on
+- How many Grand slams Djokovic will win this year
+- What book I am currently reading
+
+### 📫 Connect with me:
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luka-david/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luka-david/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luka-david/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luka-david/" height="30" width="40" /></a>
 </p>
