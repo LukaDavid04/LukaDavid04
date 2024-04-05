@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/LukaDavid04/LukaDavid04/blob/main/wave.gif" width="30px" height="30px" />! I'm Luka</h1>
 
-<img src="https://github.com/LukaDavid04/LukaDavid04/blob/main/pixels.gif" width="699px" height="152px" />
+<img src="https://github.com/LukaDavid04/LukaDavid04/blob/main/pixels.gif" width="800px" height="174px" />
 
 <h3 align="center">It's nice to virtually meet you</h3>
 
