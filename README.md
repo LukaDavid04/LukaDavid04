@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/LukaDavid04/LukaDavid04/blob/main/wave.gif" width="30px" height="30px" />! I'm Luka</h1>
+<h1>Hi <img src="https://github.com/LukaDavid04/LukaDavid04/blob/main/wave.gif" width="30px" height="30px" />! I'm Luka</h1>
 
 <img src="https://github.com/LukaDavid04/LukaDavid04/blob/main/pixels.gif" width="800px" height="174px" />
 
