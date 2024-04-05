@@ -1,16 +1,10 @@
-<h1 align="left">Hi, I'm Luka </h1>
+<h1 align="center">Hi, I'm Luka <img src="https://github.com/LukaDavid04/LukaDavid04/blob/main/wave.gif" width="30px" height="30px" /></h1>
 
 <img src="https://github.com/LukaDavid04/LukaDavid04/blob/main/pixels.gif" width="850px" height="185px" />
 
-<h3 align="center">It's nice to virtually meet you <img src="https://github.com/LukaDavid04/LukaDavid04/blob/main/wave.gif" width="30px" height="30px" /></h3>
+<h3 align="left">It's nice to virtually meet you!</h3>
 
 I'm a Software Engineer graduate from the University of Ottawa. Most recently worked for Motorola and Warner Brothers Discovery. I'm also a Analyst for the Gee-Gee's Basketball Team and the Lead Technician for the Tennis Team.
-
-- 👨‍💻 [My Website](https://lukadavid04.github.io/)
-
-- 📫 How to reach me **ldavi029@uottawa.ca**
-
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1PwBjMBwHCBl9_TpLO8qIkCXAkycQPPa5/view)
 
 ## 🔭 Currently
 
@@ -33,5 +27,5 @@ Looking for Full-time opportunities and preparing our players for next season �
 ### 📫 Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/luka-david/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luka-david/" height="30" width="40" /></a>
-</p>
+
+# [📩](https://drive.google.com/file/d/1PwBjMBwHCBl9_TpLO8qIkCXAkycQPPa5/view)[👨‍💻](https://lukadavid04.github.io/)<a href="https://www.linkedin.com/in/luka-david/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luka-david/" height="30" width="40" /></a>
