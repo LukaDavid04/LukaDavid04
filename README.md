@@ -1,7 +1,6 @@
-<img src="https://github.com/LukaDavid04/LukaDavid04/blob/main/pixels2.gif" width="850px" height="185px" />
+<img src="https://github.com/LukaDavid04/LukaDavid04/blob/main/pixels.gif" width="850px" height="100px" />
 
 <h1 align="left">Hi, I'm Luka <img src="https://github.com/LukaDavid04/LukaDavid04/blob/main/wave.gif" width="30px" height="30px" /></h1>
-
 <h3 align="center">It's nice to virtually meet you!</h3>
 
 I'm a Software Engineer graduate from the University of Ottawa. Most recently worked for Motorola and Warner Brothers Discovery. I'm also a Analyst for the Gee-Gee's Basketball Team and the Lead Technician for the Tennis Team.
