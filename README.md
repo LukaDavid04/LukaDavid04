@@ -9,7 +9,7 @@ I'm a Software Engineer Graduate from the University of Ottawa. Most recently wo
 
 Looking for Full-time opportunities and preparing our players for next season 🏋️
 
-- Lead Technician and Assistant Coach at @[Gee-Gee's Tennis](https://teams.geegees.ca/clubs/tennis/home) 🎾
+- Lead Developer and Assistant Coach at @[Gee-Gee's Tennis](https://teams.geegees.ca/clubs/tennis/home) 🎾
 - Analytics Assistant at @[Gee-Gee's Men's Basketball](https://teams.geegees.ca/sports/mbkb/index) 🏀
 
 ## 🕰️ Previously
