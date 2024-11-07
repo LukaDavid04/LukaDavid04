@@ -3,14 +3,13 @@
 <h1 align="left">Hi, I'm Luka <img src="https://github.com/LukaDavid04/LukaDavid04/blob/main/wave.gif" width="30px" height="30px" /></h1>
 <h3 align="center">It's nice to virtually meet you!</h3>
 
-I'm a Software Engineer Graduate from the University of Ottawa. Most recently worked for Motorola and Warner Brothers Discovery. I'm also a Analyst for the Gee-Gee's Basketball Team and the Lead Technician for the Tennis Team.
+I'm a Software Engineer Graduate from the University of Ottawa. Most recently worked for Motorola and Warner Brothers Discovery. I'm also a the Assistant Coach and Lead Software Engineer for the Gee-Gees Varisty Tennis Team.
 
 ## 🔭 Currently
 
 Looking for Full-time opportunities and preparing our players for next season 🏋️
 
-- Lead Developer and Assistant Coach at @[Gee-Gee's Tennis](https://teams.geegees.ca/clubs/tennis/home) 🎾
-- Analytics Assistant at @[Gee-Gee's Men's Basketball](https://teams.geegees.ca/sports/mbkb/index) 🏀
+- Lead SWE and Assistant Coach at @[Gee-Gee's Tennis](https://teams.geegees.ca/clubs/tennis/home) 🎾
 
 ## 🕰️ Previously
 
@@ -18,6 +17,7 @@ Looking for Full-time opportunities and preparing our players for next season �
 - Maxing out your HBO viewing experience @[Warner Brothers Discovery](https://wbd.com/) 📺
 - Investigating cloud solutions @[Magnet Forensics](https://www.magnetforensics.com/) 🔍
 - Innovating medical technology @[University of Ottawa](https://www.uottawa.ca/en) 🩺
+- Running the numbers and rebounding at @[Gee-Gee's Men's Basketball, Analytics](https://teams.geegees.ca/sports/mbkb/index) 🏀
 - Leading academic, technical and career support events @[Software Engineering Student Association](https://www.uottawasesa.ca/) 👨‍💼
 - Captain for the @[Gee-Gee's Tennis Team](https://teams.geegees.ca/clubs/tennis/home) 💪
 - Organizing fundraising events and mentoring young leaders @[Vincent Massey Leadership Team](https://windsorstar.com/news/local-news/photo-massey-students-donate-to-ronald-mcdonald-house) 💸
