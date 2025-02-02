@@ -29,9 +29,9 @@ Looking for Full-time opportunities and preparing our players for next season �
 
 ### 🙈 Ask me about ...
 
-- What Shawarma Restaurant is the best in Ottawa
-- What season of True Detective I am on
-- How many Grand slams Djokovic will win this year
-- What book I am currently reading
+- What restaurant to try out in Ottawa
+- How shocked I was when Luka Doncic (my twin) was traded
+- What Game of Thrones book and I currently on
+- Why Los Ratones became one of my favorite teams 
 
 ### ➡️ Let's connect: [📩](https://drive.google.com/file/d/1ERDH3VnDQs_H-0uQu3bKwI1grGyY2Yfc/view)[👨‍💻](https://lukadavid04.github.io/)<a href="https://www.linkedin.com/in/luka-david/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luka-david/" height="18" width="24" /></a>
