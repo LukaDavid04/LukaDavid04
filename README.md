@@ -3,12 +3,13 @@
 <h1 align="left">Hi, I'm Luka <img src="https://github.com/LukaDavid04/LukaDavid04/blob/main/wave.gif" width="30px" height="30px" /></h1>
 <h3 align="center">It's nice to virtually meet you!</h3>
 
-I'm a Software Engineer Graduate from the University of Ottawa. Most recently worked for Motorola and Warner Brothers Discovery. I'm also a the Assistant Coach and Lead Software Engineer for the Gee-Gees Varisty Tennis Team.
+I'm a Software Engineer at AiAware Audit Solutions. I'm a uOttawa Software Engineering alum with previous experience at Motorola and Warner Brothers Discovery. I'm also the Lead Assistant Coach and Lead Software Engineer for the Gee-Gees Varisty Tennis Team.
 
 ## 🔭 Currently
 
-Looking for Full-time opportunities and preparing our players for next season 🏋️
+Looking for interesting opportunities and preparing our players for next season 🏋️
 
+- Building Infrastructure and Changing the Auditing Industry at @[AiAware](https://www.risksolutions.ai/) 🤖🛡️
 - Lead SWE and Assistant Coach at @[Gee-Gee's Tennis](https://teams.geegees.ca/clubs/tennis/home) 🎾
 
 ## 🕰️ Previously
