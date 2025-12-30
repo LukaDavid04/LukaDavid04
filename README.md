@@ -7,7 +7,7 @@ I'm a Software Engineer at AiAware Audit Solutions. I'm a uOttawa Software Engin
 
 ## 🔭 Currently
 
-Looking for interesting opportunities and preparing our players for next season 🏋️
+Building AI Tools to improve auditing across the country, and preparing our players for next season 🏋️
 
 - Building Infrastructure and Changing the Auditing Industry at @[AiAware](https://www.risksolutions.ai/) 🤖🛡️
 - Lead SWE and Assistant Coach at @[Gee-Gee's Tennis](https://teams.geegees.ca/clubs/tennis/home) 🎾
